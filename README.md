@@ -86,6 +86,8 @@ A curated list of essential tools and services for SaaS entrepreneurs and develo
   - [ReferralMagic](https://referralmagic.co/)
   - [Tolt](https://tolt.io/)
 - Email
+- QR maker
+  - [LibreQR](https://libreqr.com/) - Generate simple & advanced QR codes. Easy, customizable & trackable.
 
 ## Hosting
 
